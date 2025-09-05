@@ -1,0 +1,6 @@
+{
+  "name": "Aplikasi Absensi Siswa",
+  "description": "Aplikasi untuk mengelola absensi siswa harian dengan rekap mingguan dan bulanan.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
